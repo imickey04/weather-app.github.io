@@ -7,6 +7,8 @@
 }
 
 body {
+  width: 486px;
+  margin: auto;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -20,6 +22,7 @@ body {
 
 main {
   min-height: 100vh;
+  max-width: 486px;
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, .2), rgba(0, 0, 0, .75));
   padding: 25px;
 }
